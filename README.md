@@ -19,7 +19,8 @@
 
 -Practical-04 :
   Topics Covered : Panda's
-
+  https://github.com/shivanishelar2007/EDS-Lab/blob/main/Practical-04.pdf
+  
 -Practical-05 :
   Topics Covered : Matplotlib
   
