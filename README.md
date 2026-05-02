@@ -23,4 +23,5 @@
   
 -Practical-05 :
   Topics Covered : Matplotlib
+  https://github.com/shivanishelar2007/EDS-Lab/blob/main/Practical-05.pdf
   
