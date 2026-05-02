@@ -1,7 +1,7 @@
 # EDS-Lab
 
 ## 📜 Certificates
--Cisco Certifications : <a href="" class="btn">Download Certificate</a>
+-Cisco Certifications : <a href="https://github.com/shivanishelar2007/EDS-Lab/blob/main/Cisco_Certifications.pdf" class="btn">Download Certificate</a>
 
 ## 📁 EDS Laboratory Assignments
 - Practical-01 :
