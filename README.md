@@ -15,6 +15,7 @@
 
 -Practical-03 :
   Topics Covered : Numpy
+  https://github.com/shivanishelar2007/EDS-Lab/blob/main/Practical-03.pdf
 
 -Practical-04 :
   Topics Covered : Panda's
