@@ -7,4 +7,9 @@
 ## 📁 EDS Laboratory Assignments
 - Practical-01 :
   Topics:Conditional Stetements, Loops, Recursive Functions
+  https://github.com/shivanishelar2007/EDS-Lab/blob/main/Practical-01.pdf
+
+-Practical-02 :
+  Topics:List Operations, Dictionary Operations, Linear Search Technique
+  
   
