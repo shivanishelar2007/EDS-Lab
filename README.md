@@ -3,7 +3,7 @@
 ## 📜 Certificates
 -Cisco Certifications : <a href="https://github.com/shivanishelar2007/EDS-Lab/blob/main/Cisco_Certifications.pdf" class="btn">View Certificates</a>
 
--IBM Certificate :  <a href="https://github.com/shivanishelar2007/EDS-Lab/blob/main/Cisco_Certifications.pdf" class="btn">View Certificate</a> 
+-IBM Certificate :  <a href="https://github.com/shivanishelar2007/EDS-Lab/blob/main/IBM_Certificate.pdf" class="btn">View Certificate</a> 
 
 ## 📁 EDS Laboratory Assignments
  - Practical-01 :
