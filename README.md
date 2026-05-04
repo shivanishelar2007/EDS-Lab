@@ -28,6 +28,6 @@
 
 ## You-Tube Video 
    Topic Covered : File Operations in Python
-   <a href="https://github.com/shivanishelar2007/EDS-Lab/blob/main/Practical-05.pdf" class="btn">Watch Video</a>
+   <a href="https://youtu.be/IULAqtyWFzA?si=LO9IKYmkpJO6-e5j" class="btn">Watch Video</a>
 
   
