@@ -1,7 +1,9 @@
 # EDS-Lab
 
 ## 📜 Certificates
--Cisco Certifications : <a href="https://github.com/shivanishelar2007/EDS-Lab/blob/main/Cisco_Certifications.pdf" class="btn">Download Certificate</a>
+-Cisco Certifications : <a href="https://github.com/shivanishelar2007/EDS-Lab/blob/main/Cisco_Certifications.pdf" class="btn">View Certificates</a>
+
+-IBM Certificate :  <a href="https://github.com/shivanishelar2007/EDS-Lab/blob/main/Cisco_Certifications.pdf" class="btn">View Certificate</a> 
 
 ## 📁 EDS Laboratory Assignments
  - Practical-01 :
@@ -23,5 +25,9 @@
 -Practical-05 :
   Topics Covered : Matplotlib
   <a href="https://github.com/shivanishelar2007/EDS-Lab/blob/main/Practical-05.pdf" class="btn">Practical-05</a>
+
+## You-Tube Video 
+   Topic Covered : File Operations in Python
+   <a href="https://github.com/shivanishelar2007/EDS-Lab/blob/main/Practical-05.pdf" class="btn">Watch Video</a>
 
   
